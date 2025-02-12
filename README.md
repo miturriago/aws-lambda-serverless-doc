@@ -1,6 +1,5 @@
 # Documentación General para Crear una AWS Lambda con Serverless Framework
 
-![AWS Lambda](https://upload.wikimedia.org/wikipedia/commons/2/24/AWS_Lambda_logo.svg)
 
 ## 📌 Índice
 1. Introducción  
