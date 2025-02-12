@@ -71,10 +71,11 @@ src/
 │   │   ├── secretsManager.ts
 │
 │── config/
-│   ├── serverless.yml
+│   ├── db.ts
 │
 │── tests/
 │   ├── example.test.ts
+│── serverless.yml
 ```
 
 ## 5️⃣ Cuándo Usar un Repositorio (repository.ts)
